@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Amiga build output
+*.s
+build-release/
+build-debug/
+test_regparm
